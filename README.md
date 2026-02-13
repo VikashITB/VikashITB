@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="360"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
 
 </td>
 </tr>
