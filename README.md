@@ -33,8 +33,9 @@
   ],
   "tech_stack": {
     "languages": ["Python", "SQL", "C++"],
-    "frameworks": ["Scikit-learn", "TensorFlow"],
-    "deployment": ["Flask", "Streamlit"]
+    "libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
+    "deployment": ["Flask", "Streamlit"],
+    "tools": ["Git", "GitHub", "VS Code"]
   },
   "mission": "Build production-ready AI systems",
   "status": "Optimizing models with precision ⚡"
@@ -57,6 +58,20 @@
 
 ---
 
+# 🛠 TECH STACK
+
+<marquee behavior="alternate" direction="left" scrollamount="6">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,flask,mysql,git,github,cpp,vscode" height="60"/>
+
+</marquee>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
+
+---
+
 # 🚀 FEATURED AI SYSTEMS
 
 ---
@@ -65,13 +80,14 @@
 
 > Predict. Prevent. Optimize Retention.
 
-🧠 Built high-performance ML pipeline  
+🧠 ML classification pipeline  
 📊 Advanced EDA & feature engineering  
 🌲 Random Forest / Logistic Regression  
 ⚙ Hyperparameter tuning  
 📈 Business-driven evaluation  
 
-**Impact:** Data-backed retention strategy  
+**Tech Used:**  
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn`
 
 ---
 
@@ -84,7 +100,8 @@
 🤖 Logistic Regression classifier  
 📊 Real-world sentiment evaluation  
 
-**Impact:** Scalable NLP system  
+**Tech Used:**  
+`Python` • `Scikit-learn` • `Pandas` • `NLTK`
 
 ---
 
@@ -97,7 +114,8 @@
 💬 Context-aware document assistant  
 ⚡ Improved response precision  
 
-**Impact:** Institutional automation  
+**Tech Used:**  
+`Python` • `RAG` • `LLMs` • `IBM Cloud Lite` • `Flask`
 
 ---
 
@@ -105,16 +123,17 @@
 
 > Precision modeling on structured data.
 
-🧹 Data cleaning & transformation  
+🧹 Data cleaning  
 📊 Multi-model comparison  
-⚙ Performance optimization  
-📈 Accuracy tuning  
+⚙ Performance tuning  
+📈 Accuracy optimization  
 
-**Impact:** Reliable predictive pipeline  
+**Tech Used:**  
+`Python` • `Pandas` • `Scikit-learn` • `NumPy`
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=2"/>
 
 ---
 
