@@ -59,31 +59,63 @@
 
 # ⚡ AI SYSTEMS DEPLOYED
 
-## 🚀 Customer Churn Intelligence Engine
-- ML classification pipeline  
-- Feature engineering  
-- Logistic Regression / Random Forest  
-- Hyperparameter tuning  
+<table>
+<tr>
 
-**Impact:** Data-driven retention optimization  
+<td width="50%" valign="top">
 
----
+## 🚀 Customer Churn Intelligence  
+📊 ML classification pipeline  
+⚙ Feature engineering  
+🌲 Random Forest / Logistic Regression  
+📈 Hyperparameter tuning  
 
-## 🧠 NLP Sentiment Intelligence Model
-- Text preprocessing  
-- TF-IDF vectorization  
-- Logistic Regression classifier  
+**Impact:** Data-driven retention strategy  
 
-**Impact:** Scalable sentiment analysis  
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🤖 RAG-Based AI Accreditation Agent
-- Retrieval-Augmented Generation  
-- IBM Cloud integration  
-- Context-aware AI assistant  
+## 🧠 NLP Sentiment Model  
+📝 Text preprocessing  
+🔢 TF-IDF vectorization  
+🤖 Logistic Regression classifier  
+📊 Model evaluation  
+
+**Impact:** Scalable text intelligence  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 RAG-Based AI Agent  
+📚 Retrieval-Augmented Generation  
+☁ IBM Cloud integration  
+💬 Context-aware assistant  
+⚡ Response optimization  
 
 **Impact:** Intelligent automation  
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🍷 Wine Quality Prediction  
+🧹 Data cleaning  
+📊 Multi-model evaluation  
+⚙ Performance tuning  
+📈 Accuracy optimization  
+
+**Impact:** Reliable predictive system  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -100,14 +132,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
----
-
-# 🐍 NEURAL CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
