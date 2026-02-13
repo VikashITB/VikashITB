@@ -1,11 +1,13 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= GLITCH CYBERPUNK HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=260&section=header&text=Vikash%20Gupta&fontSize=55&fontColor=00F7FF&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Black%20AI%20Lab&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=260&section=header&animation=twinkling"/>
 
-<h1 align="center">⚡ Engineering Intelligent Systems ⚡</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=1200&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Vikash+Gupta;AI+Engineer;Machine+Learning+Specialist;Building+Intelligent+Systems" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Training+Neural+Networks...;Optimizing+AI+Pipelines...;Deploying+Scalable+Systems...;Welcome+to+My+Machine+Learning+Lab+🚀" />
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="500"/>
 </p>
 
 ---
