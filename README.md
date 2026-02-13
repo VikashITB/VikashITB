@@ -36,7 +36,7 @@
     "Model Optimization"
   ],
   "tech_stack": {
-    "languages": ["Python", "SQL", "C++"],
+    "languages": ["Python", "SQL", "C","Java"],
     "libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
     "deployment": ["Flask", "Streamlit"],
     "tools": ["Git", "GitHub", "VS Code"]
