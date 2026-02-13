@@ -1,10 +1,14 @@
-<!-- ================= MINIMAL BLACK HEADER ================= -->
+<!-- ================= GLITCH CYBERPUNK HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=160&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=260&section=header&animation=twinkling"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=1800&pause=2000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=V+i+k+a+s+h+ +G+u+p+t+a" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=1200&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Vikash+Gupta;AI+Engineer;Machine+Learning+Specialist;Building+Intelligent+Systems" />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -44,7 +48,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="340"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
 
 </td>
 </tr>
@@ -60,7 +64,7 @@
 
 <marquee behavior="alternate" direction="left" scrollamount="6">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,flask,mysql,git,github,cpp,vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,flask,mysql,git,github,cpp,vscode" height="60"/>
 
 </marquee>
 
@@ -76,46 +80,58 @@
 
 ## 🚀 Customer Churn Intelligence System
 
+> Predict. Prevent. Optimize Retention.
+
 🧠 ML classification pipeline  
-📊 Feature engineering  
+📊 Advanced EDA & feature engineering  
 🌲 Random Forest / Logistic Regression  
 ⚙ Hyperparameter tuning  
+📈 Business-driven evaluation  
 
 **Tech Used:**  
-`Python` • `Pandas` • `NumPy` • `Scikit-learn`
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn`
 
 ---
 
 ## 🧠 NLP Sentiment Intelligence Model
 
+> Extracting insight from unstructured text.
+
 📝 Text preprocessing  
 🔢 TF-IDF vectorization  
 🤖 Logistic Regression classifier  
+📊 Real-world sentiment evaluation  
 
 **Tech Used:**  
-`Python` • `Scikit-learn` • `NLTK`
+`Python` • `Scikit-learn` • `Pandas` • `NLTK`
 
 ---
 
 ## 🤖 RAG-Based AI Accreditation Agent
 
+> Retrieval + LLM Intelligence.
+
 📚 Retrieval-Augmented Generation  
 ☁ IBM Cloud integration  
-💬 Context-aware assistant  
+💬 Context-aware document assistant  
+⚡ Improved response precision  
 
 **Tech Used:**  
-`Python` • `RAG` • `LLMs` • `Flask`
+`Python` • `RAG` • `LLMs` • `IBM Cloud Lite` • `Flask`
 
 ---
 
 ## 🍷 Wine Quality Prediction Engine
 
+> Precision modeling on structured data.
+
 🧹 Data cleaning  
 📊 Multi-model comparison  
 ⚙ Performance tuning  
+📈 Accuracy optimization  
 
 **Tech Used:**  
-`Python` • `Pandas` • `Scikit-learn`
+`Python` • `Pandas` • `Scikit-learn` • `NumPy`
 
 ---
 
@@ -153,6 +169,15 @@
 
 ---
 
+# 💡 SYSTEM PHILOSOPHY
+
+> Train Hard.  
+> Tune Smarter.  
+> Deploy with Precision.  
+> Optimize Everything.
+
+---
+
 <!-- ================= FOOTER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:000000&height=150&section=footer&animation=twinkling"/>
