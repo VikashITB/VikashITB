@@ -10,21 +10,22 @@
 
 ---
 
-<!-- ================= DIVIDER ================= -->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
 
 ---
 
-# 🧠 about_me.json
+# 🧠 ABOUT ME
+
+<table>
+<tr>
+<td width="60%">
 
 ```json
 {
   "name": "Vikash Gupta",
   "role": "AI & Machine Learning Engineer",
-  "environment": "Black AI Lab",
   "education": "B.Tech IT - Final Year",
-  "active_modules": [
+  "focus": [
     "Machine Learning",
     "NLP Systems",
     "RAG Architectures",
@@ -35,15 +36,20 @@
     "ml_libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
     "deployment": ["Flask", "Streamlit"]
   },
-  "status": "Training models & building impact 🚀"
+  "mission": "Build scalable AI systems",
+  "status": "Training models & optimizing performance 🚀"
 }
 ```
 
----
+</td>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
-</p>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +74,7 @@
 - TF-IDF vectorization  
 - Logistic Regression classifier  
 
-**Impact:** Scalable text intelligence  
+**Impact:** Scalable sentiment analysis  
 
 ---
 
@@ -77,7 +83,7 @@
 - IBM Cloud integration  
 - Context-aware AI assistant  
 
-**Impact:** Intelligent automation system  
+**Impact:** Intelligent automation  
 
 ---
 
@@ -98,7 +104,13 @@
 
 ---
 
+# 🐍 NEURAL CONTRIBUTION SNAKE
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=2"/>
 
