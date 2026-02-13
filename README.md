@@ -1,23 +1,45 @@
-<!-- 🔥 Futuristic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vikash%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Data%20Science%20Specialist&descAlignY=70"/>
+<!-- ================= HEADER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vikash%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Data%20Science%20Specialist&descAlignY=70"/>
 
 <h1 align="center">⚡ Building Intelligent Systems That Deliver Impact ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Data+Science+Problem+Solver;RAG+%7C+LLM+Systems+Builder;Precision.+Performance.+Power.;Discipline+Drives+Dominance+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Data+Science+Problem+Solver;RAG+%7C+LLM+Systems+Builder;Precision.+Performance.+Power.;Discipline+Drives+Mastery+💪" />
 </p>
 
 ---
 
-# 🤖 ABOUT ME
+# 🤖 ABOUT_ME.json
 
-- 🎓 B.Tech IT – Final Year  
-- 🧠 Focused on AI, Machine Learning & Generative AI  
-- 🚀 Building RAG & LLM-based systems  
-- 📈 Preparing for elite AI/Data roles  
-- 💪 Gym discipline applied to tech mastery  
+```json
+{
+  "name": "Vikash Gupta",
+  "role": "AI & Machine Learning Engineer",
+  "location": "India",
+  "education": {
+    "degree": "B.Tech",
+    "branch": "Information Technology",
+    "status": "Final Year"
+  },
+  "focus_areas": [
+    "Machine Learning",
+    "Feature Engineering",
+    "Model Optimization",
+    "Generative AI",
+    "RAG Architectures"
+  ],
+  "tech_stack": {
+    "languages": ["Python", "SQL", "C++"],
+    "libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
+    "deployment": ["Flask", "Streamlit"],
+    "tools": ["Git", "GitHub", "VS Code"]
+  },
+  "current_mission": "Building intelligent systems that solve real-world problems",
+  "mindset": "Discipline beats motivation",
+  "career_goal": "Design scalable AI systems & secure elite AI/ML roles"
+}
 
----
 
 # 🛠 TECH ARSENAL
 
