@@ -1,141 +1,137 @@
-<!-- 🔥 Futuristic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vikash%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Data%20Science%20Specialist&descAlignY=70"/>
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">⚡ Building Intelligent Systems That Deliver Impact ⚡</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=250&section=header&text=Vikash%20Gupta&fontSize=50&fontColor=00F7FF&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Black%20AI%20Lab&descAlignY=70"/>
+
+<h1 align="center">⚡ INITIALIZING AI CORE ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Data+Science+Problem+Solver;RAG+%7C+LLM+Systems+Builder;Precision.+Performance.+Power.;Discipline+Drives+Dominance+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Loading+Machine+Learning+Modules...;Training+Neural+Networks...;Optimizing+Hyperparameters...;Deploying+AI+Systems...;Welcome+to+My+AI+Lab+🚀" />
 </p>
 
 ---
 
-# 🤖 ABOUT ME
+<!-- ================= DIVIDER ================= -->
 
-- 🎓 B.Tech IT – Final Year  
-- 🧠 Focused on AI, Machine Learning & Generative AI  
-- 🚀 Building RAG & LLM-based systems  
-- 📈 Preparing for elite AI/Data roles  
-- 💪 Gym discipline applied to tech mastery  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
 
 ---
 
-# 🛠 TECH ARSENAL
+# 🧠 about_me.json
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,flask,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
----
-
-# ⚡ PROJECTS THAT HIT DIFFERENT
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=80&section=header&text=REAL%20WORLD%20AI%20SYSTEMS&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
----
-
-## 🚀 01 — Customer Churn Intelligence System
-
-> Predict. Prevent. Optimize Retention.
-
-🔹 Built high-performance ML classification pipeline  
-🔹 Deep EDA & advanced feature engineering  
-🔹 Compared Logistic Regression, KNN, Random Forest  
-🔹 Hyperparameter tuning for optimized accuracy  
-🔹 Business-focused evaluation metrics  
-
-⚡ **Impact:** Actionable customer retention insights
-
----
-
-## 🍷 02 — Wine Quality Prediction Engine
-
-> Transforming raw data into precision outcomes.
-
-🔹 Cleaned & transformed structured dataset  
-🔹 Built complete end-to-end ML workflow  
-🔹 Multi-model evaluation  
-🔹 Performance optimization & validation  
-
-⚡ **Impact:** Reliable predictive modeling architecture
-
----
-
-## 🧠 03 — NLP Sentiment Intelligence Model
-
-> Extracting signal from textual noise.
-
-🔹 Text preprocessing & TF-IDF vectorization  
-🔹 Logistic Regression classification  
-🔹 Modular NLP pipeline design  
-🔹 Real-world sentiment evaluation  
-
-⚡ **Impact:** Scalable text intelligence framework
-
----
-
-## 🤖 04 — RAG-Based AI Accreditation Agent
-
-> Retrieval + LLM Intelligence in action.
-
-🔹 Designed Retrieval-Augmented Generation architecture  
-🔹 Integrated IBM Cloud Lite services  
-🔹 Built document-aware AI Q&A assistant  
-🔹 Improved contextual response accuracy  
-
-⚡ **Impact:** AI-powered institutional automation
+```json
+{
+  "name": "Vikash Gupta",
+  "role": "AI & Machine Learning Engineer",
+  "environment": "Black AI Lab",
+  "education": "B.Tech IT - Final Year",
+  "active_modules": [
+    "Machine Learning",
+    "NLP Systems",
+    "RAG Architectures",
+    "Model Optimization"
+  ],
+  "tech_stack": {
+    "languages": ["Python", "SQL", "C++"],
+    "ml_libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
+    "deployment": ["Flask", "Streamlit"]
+  },
+  "status": "Training models & building impact 🚀"
+}
+```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dd2476,100:ff512f&height=60&section=footer"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
 ---
 
-# 📊 GITHUB PERFORMANCE DASHBOARD
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=2"/>
+
+---
+
+# ⚡ AI SYSTEMS DEPLOYED
+
+## 🚀 Customer Churn Intelligence Engine
+- ML classification pipeline  
+- Feature engineering  
+- Logistic Regression / Random Forest  
+- Hyperparameter tuning  
+
+**Impact:** Data-driven retention optimization  
+
+---
+
+## 🧠 NLP Sentiment Intelligence Model
+- Text preprocessing  
+- TF-IDF vectorization  
+- Logistic Regression classifier  
+
+**Impact:** Scalable text intelligence  
+
+---
+
+## 🤖 RAG-Based AI Accreditation Agent
+- Retrieval-Augmented Generation  
+- IBM Cloud integration  
+- Context-aware AI assistant  
+
+**Impact:** Intelligent automation system  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
+
+---
+
+# 📊 LIVE PERFORMANCE DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&theme=vision-friendly-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
 ---
 
+# 🐍 NEURAL CONTRIBUTION SNAKE
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=2"/>
+
+---
 
 # 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikash_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="mailto:vikashg1365@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vikashg1365@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
 </p>
 
 ---
 
-# 💡 CORE BELIEF
+# 💡 SYSTEM PHILOSOPHY
 
-> Discipline beats motivation.  
-> Consistency builds mastery.  
-> Systems outperform effort.
+> Train Hard.  
+> Tune Smarter.  
+> Deploy with Precision.  
+> Optimize Everything.
 
 ---
 
-<!-- 🔥 Futuristic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:000000&height=150&section=footer&animation=twinkling"/>
