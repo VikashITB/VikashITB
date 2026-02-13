@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=250&section=header&text=Vikash%20Gupta&fontSize=50&fontColor=00F7FF&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Black%20AI%20Lab&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=260&section=header&text=Vikash%20Gupta&fontSize=55&fontColor=00F7FF&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Black%20AI%20Lab&descAlignY=70"/>
 
-<h1 align="center">⚡ INITIALIZING AI CORE ⚡</h1>
+<h1 align="center">⚡ Engineering Intelligent Systems ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Loading+Machine+Learning+Modules...;Training+Neural+Networks...;Optimizing+Hyperparameters...;Deploying+AI+Systems...;Welcome+to+My+AI+Lab+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Training+Neural+Networks...;Optimizing+AI+Pipelines...;Deploying+Scalable+Systems...;Welcome+to+My+Machine+Learning+Lab+🚀" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
   "name": "Vikash Gupta",
   "role": "AI & Machine Learning Engineer",
   "education": "B.Tech IT - Final Year",
-  "focus": [
+  "specialization": [
     "Machine Learning",
     "NLP Systems",
     "RAG Architectures",
@@ -33,11 +33,11 @@
   ],
   "tech_stack": {
     "languages": ["Python", "SQL", "C++"],
-    "ml_libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
+    "frameworks": ["Scikit-learn", "TensorFlow"],
     "deployment": ["Flask", "Streamlit"]
   },
-  "mission": "Build scalable AI systems",
-  "status": "Training models & optimizing performance 🚀"
+  "mission": "Build production-ready AI systems",
+  "status": "Optimizing models with precision ⚡"
 }
 ```
 
@@ -45,7 +45,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
 
 </td>
 </tr>
@@ -57,65 +57,60 @@
 
 ---
 
-# ⚡ AI SYSTEMS DEPLOYED
+# 🚀 FEATURED AI SYSTEMS
 
-<table>
-<tr>
+---
 
-<td width="50%" valign="top">
+## 🚀 Customer Churn Intelligence System
 
-## 🚀 Customer Churn Intelligence  
-📊 ML classification pipeline  
-⚙ Feature engineering  
+> Predict. Prevent. Optimize Retention.
+
+🧠 Built high-performance ML pipeline  
+📊 Advanced EDA & feature engineering  
 🌲 Random Forest / Logistic Regression  
-📈 Hyperparameter tuning  
+⚙ Hyperparameter tuning  
+📈 Business-driven evaluation  
 
-**Impact:** Data-driven retention strategy  
+**Impact:** Data-backed retention strategy  
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🧠 NLP Sentiment Intelligence Model
 
-## 🧠 NLP Sentiment Model  
+> Extracting insight from unstructured text.
+
 📝 Text preprocessing  
 🔢 TF-IDF vectorization  
 🤖 Logistic Regression classifier  
-📊 Model evaluation  
+📊 Real-world sentiment evaluation  
 
-**Impact:** Scalable text intelligence  
+**Impact:** Scalable NLP system  
 
-</td>
+---
 
-</tr>
+## 🤖 RAG-Based AI Accreditation Agent
 
-<tr>
+> Retrieval + LLM Intelligence.
 
-<td width="50%" valign="top">
-
-## 🤖 RAG-Based AI Agent  
 📚 Retrieval-Augmented Generation  
 ☁ IBM Cloud integration  
-💬 Context-aware assistant  
-⚡ Response optimization  
+💬 Context-aware document assistant  
+⚡ Improved response precision  
 
-**Impact:** Intelligent automation  
+**Impact:** Institutional automation  
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🍷 Wine Quality Prediction Engine
 
-## 🍷 Wine Quality Prediction  
-🧹 Data cleaning  
-📊 Multi-model evaluation  
-⚙ Performance tuning  
-📈 Accuracy optimization  
+> Precision modeling on structured data.
 
-**Impact:** Reliable predictive system  
+🧹 Data cleaning & transformation  
+📊 Multi-model comparison  
+⚙ Performance optimization  
+📈 Accuracy tuning  
 
-</td>
-
-</tr>
-</table>
+**Impact:** Reliable predictive pipeline  
 
 ---
 
