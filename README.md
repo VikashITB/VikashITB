@@ -1,10 +1,12 @@
 <!-- ================= GLITCH CYBERPUNK HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=260&section=header&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=170&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=1200&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Vikash+Gupta;AI+Engineer;Machine+Learning+Specialist;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=52&duration=150&pause=2000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Vikash+Gupta" />
 </h1>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="500"/>
@@ -180,4 +182,4 @@
 
 <!-- ================= FOOTER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:000000&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:000000&height=150&section=footer"/>
