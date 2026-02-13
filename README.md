@@ -1,9 +1,9 @@
 <!-- ================= GLITCH CYBERPUNK HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=170&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=200&section=header&animation=twinkling"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=52&duration=150&pause=2000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Vikash+Gupta" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=1500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Vikash+Gupta;AI+Engineer;Machine+Learning+Specialist;Data+Scientist;Building+Intelligent+Systems" />
 </h1>
 
 ---
