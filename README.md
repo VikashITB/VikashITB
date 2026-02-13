@@ -98,13 +98,7 @@
 
 ---
 
-# 🐍 NEURAL CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=2"/>
 
