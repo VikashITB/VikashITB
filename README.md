@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vikash%20Gupta&fontSize=62&fontColor=00F7FF&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20Building%20Production%20AI%20Systems&descColor=888888&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=720&lines=FastAPI+%E2%80%A2+LLMOps+%E2%80%A2+RAG+%E2%80%A2+Scalable+Backend+Architecture;Async+Systems+%E2%80%A2+Celery+%2B+Redis+%E2%80%A2+Streaming+AI;React+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+TypeScript;Open+for+AI+%2F+ML+Engineering+Roles+%E2%80%94+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=720&lines=FastAPI+%E2%80%A2+LLMOps+%E2%80%A2+RAG+%E2%80%A2+Scalable+Backend+Architecture;Multi-Agent+AI+%E2%80%A2+Celery+%2B+Redis+%E2%80%A2+Streaming+Inference;React+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+TypeScript;Open+for+AI+%2F+ML+Engineering+Roles+%E2%80%94+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing"/>
 
 <br/><br/>
 
@@ -15,8 +15,8 @@
 <a href="https://github.com/VikashITB">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
-<a href="https://github.com/VikashITB">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+<a href="https://drive.google.com/YOUR_RESUME_LINK_HERE">
+  <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=00F7FF"/>
 </a>
 
 <br/><br/>
@@ -38,7 +38,7 @@
 |:---:|:---|
 | ⚡ | Engineer already shipping **production AI systems** — not just coursework |
 | 🧠 | End-to-end skill: **ML modeling → async backend → full-stack frontend** |
-| 🔧 | Comfortable with **RAG, LLMOps, streaming inference, Celery task queues** |
+| 🔧 | Comfortable with **RAG, LLMOps, multi-agent orchestration, Celery task queues** |
 | 🚀 | Built and deployed real products used by real users |
 | 🎯 | Strong product instinct — I think in **impact**, not just accuracy scores |
 
@@ -50,10 +50,10 @@
 vikash = {
     "role"       : "AI Engineer | ML Specialist | Full-Stack Builder",
     "education"  : "B.Tech Information Technology (Final Year)",
-    "expertise"  : ["LLMOps", "RAG Systems", "Async Backends", "NLP", "MLOps"],
+    "expertise"  : ["LLMOps", "RAG Systems", "Multi-Agent AI", "Async Backends", "NLP"],
     "stack"      : ["Python", "FastAPI", "React", "Next.js", "PostgreSQL", "Redis"],
     "cloud"      : ["IBM Cloud", "Vercel", "Render"],
-    "building"   : "PulseOps AI — async AI ops platform with streaming",
+    "building"   : "PulseOps Multi-Agent AI — orchestrated async AI ops platform",
     "seeking"    : "AI/ML Engineering · Backend AI · Data Science roles",
     "location"   : "India · Remote preferred · Open to relocation",
 }
@@ -65,13 +65,13 @@ vikash = {
 
 ---
 
-### ⚡ PulseOps AI &nbsp;&nbsp; `Production · AI Ops · Async`
+### ⚡ PulseOps Multi-Agent AI &nbsp;&nbsp; `Production · Multi-Agent · Streaming`
 
-> Async AI operations assistant with real-time streaming and scalable task architecture
+> Multi-agent AI operations platform with streaming responses, orchestration, and scalable async architecture
 
-- Engineered **Celery + Redis** task queue enabling non-blocking AI inference at scale
-- Implemented **streaming LLM responses** cutting perceived latency significantly
-- FastAPI async backend designed for **horizontal scaling** under production load
+- Architected **multi-agent orchestration layer** with coordinated task delegation across specialized agents
+- Engineered **Celery + Redis** task queue for non-blocking AI inference — ~40% reduction in perceived latency via streaming
+- FastAPI async backend with **horizontal scaling** design; deployed on Vercel for production traffic
 
 <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=00F7FF"/>
@@ -81,7 +81,7 @@ vikash = {
 &nbsp;·&nbsp;
 [`View Repo →`](https://github.com/VikashITB/PulseOps-AI)
 &nbsp;·&nbsp;
-[`Live Demo →`](https://pulseops-ai.onrender.com)
+[`Live Demo →`](https://pulseops-multi-agent-ai.vercel.app/)
 
 ---
 
@@ -184,10 +184,10 @@ Production NLP pipeline with TF-IDF vectorization, preprocessing, and Logistic R
 
 <img src="https://img.shields.io/badge/RAG-0D0D0D?style=flat-square&logo=openai&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/LLMOps-0D0D0D?style=flat-square&logo=openai&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Multi--Agent-0D0D0D?style=flat-square&logo=openai&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/Celery-0D0D0D?style=flat-square&logo=celery&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/Prisma-0D0D0D?style=flat-square&logo=prisma&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/IBM%20Cloud-0D0D0D?style=flat-square&logo=ibmcloud&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Render-0D0D0D?style=flat-square&logo=render&logoColor=00F7FF"/>
 
 </div>
 
@@ -209,6 +209,14 @@ Production NLP pipeline with TF-IDF vectorization, preprocessing, and Logistic R
 
 ---
 
+## `// Activity Graph`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashITB&theme=react-dark&hide_border=true&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" width="95%"/>
+</div>
+
+---
+
 ## `// Contribution Activity`
 
 <div align="center">
@@ -217,11 +225,25 @@ Production NLP pipeline with TF-IDF vectorization, preprocessing, and Logistic R
 
 ---
 
+## `// The Reality of Engineering`
+
+<div align="center">
+
+*Every senior engineer has been here.*
+
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="380" alt="It works, don't touch it"/>
+
+> **"It works in production. I have no idea why. I'm not touching it."**
+
+</div>
+
+---
+
 ## `// Currently`
 
 ```yaml
 status        : Actively seeking AI/ML Engineering roles
-building      : PulseOps AI v2 — multi-agent streaming workflows
+building      : PulseOps Multi-Agent AI — orchestration + streaming v2
 learning      : Vector DBs (Pinecone) · Advanced RAG reranking · System design
 available     : Immediately
 type          : Full-time · Internship · Contract
@@ -261,7 +283,7 @@ remote        : Preferred · Open to hybrid / relocation
 </a>
 &nbsp;
 <a href="https://github.com/VikashITB">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 &nbsp;
 <a href="https://drive.google.com/YOUR_RESUME_LINK_HERE">
@@ -286,26 +308,23 @@ Build systems that scale.  Write code that ships.  Solve problems that matter.
 ════════════════════════════════════════════════
   TOOLS & ASSETS
 ════════════════════════════════════════════════
-  Header / Footer  → https://capsule-render.vercel.app
-  Typing SVG       → https://readme-typing-svg.demolab.com
-  Skill Icons      → https://skillicons.dev
-  GitHub Stats     → https://github-readme-stats.vercel.app
-  Streak Stats     → https://github-readme-streak-stats.herokuapp.com
-  Snake Animation  → https://github.com/Platane/snk
-  Profile Views    → https://komarev.com/ghpvc
-  Badges           → https://shields.io
+  Header / Footer   → https://capsule-render.vercel.app
+  Typing SVG        → https://readme-typing-svg.demolab.com
+  Skill Icons       → https://skillicons.dev
+  GitHub Stats      → https://github-readme-stats.vercel.app
+  Streak Stats      → https://github-readme-streak-stats.herokuapp.com
+  Activity Graph    → https://github-readme-activity-graph.vercel.app
+  Snake Animation   → https://github.com/Platane/snk
+  Profile Views     → https://komarev.com/ghpvc
+  Badges            → https://shields.io
 
   SNAKE ANIMATION SETUP:
   1. Repo must be named VikashITB/VikashITB
   2. Create .github/workflows/snake.yml
-  3. Paste action from https://github.com/Platane/snk
-  4. Image auto-generates to output branch
+  3. Use action: Platane/snk@v3
+  4. Output branch: output/github-contribution-grid-snake-dark.svg
 
-  PLACEHOLDERS TO REPLACE:
-  → YOUR_LINKEDIN/      LinkedIn profile slug
-  → https://github.com/VikashITB  Your portfolio site
-  → https://drive.google.com/YOUR_RESUME_LINK_HERE     Google Drive or PDF link
-  → REPO_LINK           Each project's actual repo name
-  → YOUR_DEMO_LINK      Live demo URLs for PulseOps + GolfGives
+  ONE REMAINING ACTION:
+  → Replace https://drive.google.com/YOUR_RESUME_LINK_HERE with your real resume PDF link
 ════════════════════════════════════════════════
 -->
