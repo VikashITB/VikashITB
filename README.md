@@ -1,30 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vikash%20Gupta&fontSize=62&fontColor=00F7FF&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20Building%20Production%20AI%20Systems&descColor=888888&descAlignY=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=110&section=header&text=&fontColor=00d4ff&fontSize=0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=720&lines=FastAPI+%E2%80%A2+LLMOps+%E2%80%A2+RAG+%E2%80%A2+Scalable+Backend+Architecture;Multi-Agent+AI+%E2%80%A2+Celery+%2B+Redis+%E2%80%A2+Streaming+Inference;React+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+TypeScript;Open+for+AI+%2F+ML+Engineering+Roles+%E2%80%94+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/vikash-gupta-b78741293">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-<a href="mailto:vikashg1365@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
+<!-- Typing SVG -->
 <a href="https://github.com/VikashITB">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vikash+Gupta+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems;From+Idea+%E2%86%92+Deployed+Product" alt="Typing SVG" />
 </a>
-<a href="https://drive.google.com/YOUR_RESUME_LINK_HERE">
-  <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=00F7FF"/>
-</a>
+
+<br/>
+
+<!-- Top Animation — Premium Coding Visual -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="coding animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00F7FF?style=flat-square&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-00F7FF?style=flat-square&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Roles-Fulltime%20%7C%20Internship-00F7FF?style=flat-square&labelColor=0D0D0D"/>
-<img src="https://komarev.com/ghpvc/?username=VikashITB&color=00F7FF&style=flat-square&label=Profile+Views"/>
+<!-- CTA Buttons -->
+[![Portfolio](https://img.shields.io/badge/🚀_Live_Project-PulseOps_AI-00d4ff?style=for-the-badge&labelColor=0d1117)](https://pulseops-multi-agent-ai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/vikash-gupta-b78741293)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/VikashITB)
 
 </div>
 
@@ -32,263 +25,121 @@
 
 <div align="center">
 
-## Why Me?
-
-| ✦ | Signal |
-|:---:|:---|
-| ⚡ | Engineer already shipping **production AI systems** — not just coursework |
-| 🧠 | End-to-end skill: **ML modeling → async backend → full-stack frontend** |
-| 🔧 | Comfortable with **RAG, LLMOps, multi-agent orchestration, Celery task queues** |
-| 🚀 | Built and deployed real products used by real users |
-| 🎯 | Strong product instinct — I think in **impact**, not just accuracy scores |
+## `whoami`
 
 </div>
 
----
-
-```python
-vikash = {
-    "role"       : "AI Engineer | ML Specialist | Full-Stack Builder",
-    "education"  : "B.Tech Information Technology (Final Year)",
-    "expertise"  : ["LLMOps", "RAG Systems", "Multi-Agent AI", "Async Backends", "NLP"],
-    "stack"      : ["Python", "FastAPI", "React", "Next.js", "PostgreSQL", "Redis"],
-    "cloud"      : ["IBM Cloud", "Vercel", "Render"],
-    "building"   : "PulseOps Multi-Agent AI — orchestrated async AI ops platform",
-    "seeking"    : "AI/ML Engineering · Backend AI · Data Science roles",
-    "location"   : "India · Remote preferred · Open to relocation",
-}
+```typescript
+const vikash = {
+  role        : "AI Engineer & Full Stack Developer",
+  focus       : ["Multi-Agent AI Systems", "LLM Integration", "Production Deployment"],
+  stack       : ["Next.js", "TypeScript", "Python", "LangChain", "Prisma", "Supabase"],
+  currentBuild: "PulseOps — a multi-agent AI operations platform",
+  deployed    : true,
+  openTo      : ["SWE Internships", "AI/ML Roles", "Full Stack Positions"],
+};
 ```
 
 ---
 
-## `// Featured Systems`
+<div align="center">
 
----
+## Why Me
 
-### ⚡ PulseOps Multi-Agent AI &nbsp;&nbsp; `Production · Multi-Agent · Streaming`
+</div>
 
-> Multi-agent AI operations platform with streaming responses, orchestration, and scalable async architecture
+I don't build tutorial projects. I build and ship things — deployed, working, with real users.
 
-- Architected **multi-agent orchestration layer** with coordinated task delegation across specialized agents
-- Engineered **Celery + Redis** task queue for non-blocking AI inference — ~40% reduction in perceived latency via streaming
-- FastAPI async backend with **horizontal scaling** design; deployed on Vercel for production traffic
+PulseOps is a multi-agent AI system running in production. GolfGives is a full-stack fundraising platform with live auth, a real database, and real workflows. Every project here went through the full cycle: design, build, debug, deploy, fix what broke in production.
 
-<img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Celery-000?style=flat-square&logo=celery&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F7FF"/>
-&nbsp;·&nbsp;
-[`View Repo →`](https://github.com/VikashITB/PulseOps-AI)
-&nbsp;·&nbsp;
-[`Live Demo →`](https://pulseops-multi-agent-ai.vercel.app/)
+I'm comfortable with the entire stack — from database schema to LLM prompt chains to Vercel CI/CD. I learn fast, work independently, and care about code quality.
 
----
-
-### 🏌️ GolfGives &nbsp;&nbsp; `Full-Stack · Luxury Product · Live`
-
-> Premium charity golf event platform with real-time fundraising and donor management
-
-- Built full **donor journey** from registration to live fundraising dashboard
-- Type-safe end-to-end with **TypeScript + Prisma + PostgreSQL** — zero runtime surprises
-- Deployed to **Vercel** with CI/CD; serving real charity event organizers
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00F7FF"/>
-&nbsp;·&nbsp;
-[`View Repo →`](https://github.com/VikashITB/GolfGives)
-&nbsp;·&nbsp;
-[`Live Demo →`](https://golfgives.vercel.app)
-
----
-
-### 🤖 NBA Accreditation AI Agent &nbsp;&nbsp; `RAG · IBM Cloud · LLM`
-
-> RAG-powered document assistant for institutional accreditation workflows
-
-- Reduced manual accreditation document lookup through **context-aware RAG retrieval**
-- Integrated **IBM Granite LLMs** with vector search for grounded, accurate responses
-- Outperformed vanilla LLM baseline by anchoring responses to source documents
-
-<img src="https://img.shields.io/badge/RAG-000?style=flat-square&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/IBM%20Cloud-000?style=flat-square&logo=ibmcloud&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/LLMs-000?style=flat-square&logo=openai&logoColor=00F7FF"/>
-&nbsp;·&nbsp;
-[`View Repo →`](https://github.com/VikashITB/NBA-Accreditation-Agent)
-
----
-
-### More Projects
-
-<table>
+<table align="center">
 <tr>
-<td width="33%">
-
-**📊 IPL 2025 Analytics**
-Deep-dive analytics on season data — player performance trends, match outcome modeling, rich visualizations.
-
-`Python` `Pandas` `Plotly` `ML`
-
-[`Repo →`](https://github.com/VikashITB/IPL-2025-Analytics)
-
-</td>
-<td width="33%">
-
-**📉 Customer Churn Prediction**
-ML classification pipeline with EDA, feature engineering, Random Forest + XGBoost, hyperparameter tuning.
-
-`Scikit-learn` `Pandas` `Seaborn`
-
-[`Repo →`](https://github.com/VikashITB/Customer-Churn-Prediction)
-
-</td>
-<td width="33%">
-
-**💬 Sentiment Analysis NLP**
-Production NLP pipeline with TF-IDF vectorization, preprocessing, and Logistic Regression classifier.
-
-`NLTK` `Scikit-learn` `TF-IDF`
-
-[`Repo →`](https://github.com/VikashITB/Sentiment-Analysis-NLP)
-
-</td>
+<td align="center"><b>🤖</b><br/>Multi-Agent AI</td>
+<td align="center"><b>🚀</b><br/>Production Deployments</td>
+<td align="center"><b>🔐</b><br/>Auth & Security</td>
+<td align="center"><b>🗄️</b><br/>Database Design</td>
+<td align="center"><b>⚡</b><br/>Full Stack TypeScript</td>
 </tr>
 </table>
 
 ---
 
-## `// Tech Stack`
+<div align="center">
+
+## Tech Stack
+
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp&theme=dark" height="42"/>
+**Languages**
 
-<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,flask,nodejs&theme=dark" height="42"/>
+**Frontend & Frameworks**
 
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,postgres,mysql&theme=dark" height="42"/>
+**AI / Backend**
 
-<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=redis,docker,git,github,vscode,vercel,postman&theme=dark" height="42"/>
+**Auth, Infra & Deployment**
 
-<br/>
-
-<img src="https://img.shields.io/badge/RAG-0D0D0D?style=flat-square&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/LLMOps-0D0D0D?style=flat-square&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Multi--Agent-0D0D0D?style=flat-square&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Celery-0D0D0D?style=flat-square&logo=celery&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Prisma-0D0D0D?style=flat-square&logo=prisma&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/IBM%20Cloud-0D0D0D?style=flat-square&logo=ibmcloud&logoColor=00F7FF"/>
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## `// GitHub Stats`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=00F7FF&text_color=AAAAAA&ring_color=00F7FF&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&hide_border=true&background=0D0D0D&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=AAAAAA&dates=555555&stroke=00F7FF" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=AAAAAA&langs_count=8"/>
+## Featured Projects
 
 </div>
 
----
+### 🤖 PulseOps — Multi-Agent AI Platform
+> A production-deployed AI system where autonomous agents collaborate to handle operations workflows.
 
-## `// Activity Graph`
+**Stack:** Next.js · TypeScript · LangChain · OpenAI · Supabase · Vercel
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashITB&theme=react-dark&hide_border=true&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" width="95%"/>
-</div>
-
----
-
-## `// Contribution Activity`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
+[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://pulseops-multi-agent-ai.vercel.app/)
 
 ---
 
-## `// The Reality of Engineering`
+### ⛳ GolfGives — Charity Golf Fundraising Platform
+> A full-stack platform for managing charity golf tournaments — event creation, donor registration, donation flows, and an admin panel. Deployed and live.
+
+**Stack:** Next.js 15 · TypeScript · Prisma · Supabase · Clerk · Tailwind CSS · Vercel
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/VikashITB/golfgives)
+
+---
 
 <div align="center">
 
-*Every senior engineer has been here.*
-
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="380" alt="It works, don't touch it"/>
-
-> **"It works in production. I have no idea why. I'm not touching it."**
-
-</div>
-
----
-
-## `// Currently`
-
-```yaml
-status        : Actively seeking AI/ML Engineering roles
-building      : PulseOps Multi-Agent AI — orchestration + streaming v2
-learning      : Vector DBs (Pinecone) · Advanced RAG reranking · System design
-available     : Immediately
-type          : Full-time · Internship · Contract
-remote        : Preferred · Open to hybrid / relocation
-```
-
----
-
-## `// Open for Opportunities`
-
-<div align="center">
+## GitHub Stats
 
 <br/>
 
-**If you're building something with AI — let's talk.**
-
-<br/>
-
-| Role | Match |
-|:---|:---:|
-| AI / ML Engineer | ✅ |
-| Backend Engineer (AI-focused) | ✅ |
-| Data Scientist | ✅ |
-| LLMOps / MLOps Engineer | ✅ |
-| Full-Stack AI Product Engineer | ✅ |
-
-<br/>
-
-<a href="mailto:vikashg1365@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%86%92%20Reach%20Out%20Directly-vikashg1365@gmail.com-00F7FF?style=for-the-badge&labelColor=0D0D0D"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e&border=30363d" width="48%" alt="Streak Stats"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/vikash-gupta-b78741293">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-&nbsp;
-<a href="https://github.com/VikashITB">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/YOUR_RESUME_LINK_HERE">
-  <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=00F7FF"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -296,35 +147,75 @@ remote        : Preferred · Open to hybrid / relocation
 
 <div align="center">
 
-```
-Build systems that scale.  Write code that ships.  Solve problems that matter.
-```
+## Contribution Activity
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&animation=twinkling"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashITB&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=30363d&title_color=00d4ff" width="95%" alt="Activity Graph"/>
 
 </div>
 
-<!--
-════════════════════════════════════════════════
-  TOOLS & ASSETS
-════════════════════════════════════════════════
-  Header / Footer   → https://capsule-render.vercel.app
-  Typing SVG        → https://readme-typing-svg.demolab.com
-  Skill Icons       → https://skillicons.dev
-  GitHub Stats      → https://github-readme-stats.vercel.app
-  Streak Stats      → https://github-readme-streak-stats.herokuapp.com
-  Activity Graph    → https://github-readme-activity-graph.vercel.app
-  Snake Animation   → https://github.com/Platane/snk
-  Profile Views     → https://komarev.com/ghpvc
-  Badges            → https://shields.io
+---
 
-  SNAKE ANIMATION SETUP:
-  1. Repo must be named VikashITB/VikashITB
-  2. Create .github/workflows/snake.yml
-  3. Use action: Platane/snk@v3
-  4. Output branch: output/github-contribution-grid-snake-dark.svg
+<div align="center">
 
-  ONE REMAINING ACTION:
-  → Replace https://drive.google.com/YOUR_RESUME_LINK_HERE with your real resume PDF link
-════════════════════════════════════════════════
--->
+## Contribution Snake
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## The Developer Experience, Accurately Represented
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="dev meme"/>
+
+<br/>
+
+*Fixing one bug. Creating three more. Deploying anyway.*
+
+</div>
+
+---
+
+<div align="center">
+
+## Currently
+
+</div>
+
+```yaml
+status      : Open to internships and junior roles — AI, Full Stack, SWE
+building    : Multi-agent AI systems and production-grade full-stack apps
+learning    : Advanced LLM architectures, RAG pipelines, agent orchestration
+available   : Immediate
+```
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-gupta-b78741293)
+[![GitHub](https://img.shields.io/badge/GitHub-VikashITB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikashITB)
+[![PulseOps](https://img.shields.io/badge/Live_Project-PulseOps_AI-00d4ff?style=for-the-badge)](https://pulseops-multi-agent-ai.vercel.app/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f23&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
