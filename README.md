@@ -1,21 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=110&section=header&text=&fontColor=00d4ff&fontSize=0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://github.com/VikashITB">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vikash+Gupta+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems;From+Idea+%E2%86%92+Deployed+Product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Vikash+Gupta+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems;From+Idea+%E2%86%92+Deployed+Product" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Top Animation — Premium Coding Visual -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="coding"/>
 
 <br/><br/>
 
-<!-- CTA Buttons -->
-[![Portfolio](https://img.shields.io/badge/🚀_Live_Project-PulseOps_AI-00d4ff?style=for-the-badge&labelColor=0d1117)](https://pulseops-multi-agent-ai.vercel.app/)
+[![PulseOps](https://img.shields.io/badge/🚀_Live_Project-PulseOps_AI-00d4ff?style=for-the-badge&labelColor=0d1117)](https://pulseops-multi-agent-ai.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/vikash-gupta-b78741293)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/VikashITB)
 
@@ -52,16 +49,18 @@ I don't build tutorial projects. I build and ship things — deployed, working, 
 
 PulseOps is a multi-agent AI system running in production. GolfGives is a full-stack fundraising platform with live auth, a real database, and real workflows. Every project here went through the full cycle: design, build, debug, deploy, fix what broke in production.
 
-I'm comfortable with the entire stack — from database schema to LLM prompt chains to Vercel CI/CD. I learn fast, work independently, and care about code quality.
+I'm comfortable across the full stack — from database schema to LLM prompt chains to Vercel CI/CD. I learn fast, work independently, and care about getting things right.
+
+<br/>
 
 <table align="center">
-<tr>
-<td align="center"><b>🤖</b><br/>Multi-Agent AI</td>
-<td align="center"><b>🚀</b><br/>Production Deployments</td>
-<td align="center"><b>🔐</b><br/>Auth & Security</td>
-<td align="center"><b>🗄️</b><br/>Database Design</td>
-<td align="center"><b>⚡</b><br/>Full Stack TypeScript</td>
-</tr>
+  <tr>
+    <td align="center"><b>🤖</b><br/>Multi-Agent AI</td>
+    <td align="center"><b>🚀</b><br/>Production Deployments</td>
+    <td align="center"><b>🔐</b><br/>Auth & Security</td>
+    <td align="center"><b>🗄️</b><br/>Database Design</td>
+    <td align="center"><b>⚡</b><br/>Full Stack TypeScript</td>
+  </tr>
 </table>
 
 ---
@@ -70,9 +69,7 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 
 ## Tech Stack
 
-</div>
-
-<div align="center">
+<br/>
 
 **Languages**
 
@@ -80,18 +77,24 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+<br/>
+
 **Frontend & Frameworks**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**AI / Backend**
+<br/>
+
+**AI & Backend**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<br/>
 
 **Auth, Infra & Deployment**
 
@@ -111,19 +114,23 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 </div>
 
 ### 🤖 PulseOps — Multi-Agent AI Platform
-> A production-deployed AI system where autonomous agents collaborate to handle operations workflows.
+
+A production-deployed AI system where autonomous agents collaborate to handle operations workflows. Built end-to-end and live on Vercel.
 
 **Stack:** Next.js · TypeScript · LangChain · OpenAI · Supabase · Vercel
 
-[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://pulseops-multi-agent-ai.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://pulseops-multi-agent-ai.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/VikashITB/pulseops)
 
 ---
 
 ### ⛳ GolfGives — Charity Golf Fundraising Platform
-> A full-stack platform for managing charity golf tournaments — event creation, donor registration, donation flows, and an admin panel. Deployed and live.
+
+A full-stack platform for managing charity golf tournaments — event creation, donor registration, donation flows, and an admin panel. Real auth, real database, real deployment.
 
 **Stack:** Next.js 15 · TypeScript · Prisma · Supabase · Clerk · Tailwind CSS · Vercel
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://golfgives-sand.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/VikashITB/golfgives)
 
 ---
@@ -134,12 +141,13 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" width="48%" alt="GitHub Stats"/>
+&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e&border=30363d" width="48%" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="42%" alt="Top Languages"/>
 
 </div>
 
@@ -151,7 +159,7 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashITB&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=30363d&title_color=00d4ff" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashITB&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&area_color=00d4ff&border_color=30363d&title_color=00d4ff" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -164,9 +172,19 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-snake-dark.svg" width="95%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/VikashITB/VikashITB/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+  />
 </picture>
 
 </div>
@@ -175,15 +193,15 @@ I'm comfortable with the entire stack — from database schema to LLM prompt cha
 
 <div align="center">
 
-## The Developer Experience, Accurately Represented
-
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="dev meme"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360" alt="dev meme"/>
 
 <br/>
 
 *Fixing one bug. Creating three more. Deploying anyway.*
+
+<br/>
 
 </div>
 
@@ -216,6 +234,6 @@ available   : Immediate
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f23&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f23&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
