@@ -120,7 +120,7 @@ A production-deployed AI system where autonomous agents collaborate to handle op
 **Stack:** Next.js · TypeScript · LangChain · OpenAI · Supabase · Vercel
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://pulseops-multi-agent-ai.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/VikashITB/pulseops)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/VikashITB/pulseops-multi-agent-ai)
 
 ---
 
@@ -141,13 +141,13 @@ A full-stack platform for managing charity golf tournaments — event creation, 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&rank_icon=github&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e&border=30363d" width="48%" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&langs_count=8" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&langs_count=6&hide=html,css&cache_seconds=1800&hide_border=false" width="42%" alt="Top Languages"/>
 
 </div>
 
