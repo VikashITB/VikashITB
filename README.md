@@ -141,6 +141,10 @@ A full-stack platform for managing charity golf tournaments — event creation, 
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=VikashITB&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" width="95%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&rank_icon=github&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e&border=30363d" width="48%" alt="Streak Stats"/>
@@ -148,6 +152,8 @@ A full-stack platform for managing charity golf tournaments — event creation, 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikashITB&theme=github_dark" width="42%" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikashITB&theme=github_dark" width="42%" alt="Most Commit Language"/>
 
 <br/><br/>
 
