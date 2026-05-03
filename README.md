@@ -147,7 +147,11 @@ A full-stack platform for managing charity golf tournaments — event creation, 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikashITB&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&langs_count=6&hide=html,css&cache_seconds=1800&hide_border=false" width="42%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikashITB&theme=github_dark" width="42%" alt="Repos Per Language"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashITB&theme=github_dark" width="90%" alt="Profile Summary"/>
 
 </div>
 
