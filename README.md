@@ -137,27 +137,41 @@ A full-stack platform for managing charity golf tournaments — event creation, 
 
 <div align="center">
 
-## GitHub Stats
+## What I Build
+
+</div>
+
+🚀 &nbsp;Production-ready AI systems with real-world deployment
+🤖 &nbsp;Multi-agent architectures and LLM-powered workflows
+📊 &nbsp;End-to-end pipelines from data → model → deployment
+🔐 &nbsp;Full-stack apps with real auth, databases, and CI/CD
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VikashITB&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" width="95%" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=VikashITB&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&rank_icon=github&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashITB&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e&border=30363d" width="48%" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikashITB&theme=github_dark" width="42%" alt="Repos Per Language"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashITB&theme=github_dark" width="90%" alt="Profile Summary"/>
-
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it is</th>
+      <th>Stack</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>PulseOps</b></td>
+      <td>Multi-agent AI operations platform</td>
+      <td>Next.js · LangChain · OpenAI · Supabase</td>
+      <td>✅ Live</td>
+    </tr>
+    <tr>
+      <td><b>GolfGives</b></td>
+      <td>Charity golf fundraising platform</td>
+      <td>Next.js 15 · Prisma · Clerk · Supabase</td>
+      <td>✅ Live</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
