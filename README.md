@@ -28,7 +28,7 @@
 
 ```typescript
 const vikash = {
-  role        : "AI Engineer & Full Stack Developer",
+  role        : "AI Engineer & AI Developer",
   focus       : ["Multi-Agent AI Systems", "LLM Integration", "Production Deployment"],
   stack       : ["Next.js", "TypeScript", "Python", "LangChain", "Prisma", "Supabase"],
   currentBuild: "PulseOps — a multi-agent AI operations platform",
